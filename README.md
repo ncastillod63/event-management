@@ -79,7 +79,7 @@ License
 
 MIT License. Free to use for educational purposes.
 
-Nombre: NADINE ISABEL CASTILLO DOMINGUEZ 
-Clan: Manglar
-Correo: ncastillod63@hotmail.com
-Documento de identidad: 1140891198
+Name: NADINE ISABEL CASTILLO DOMINGUEZ 
+Team: Manglar
+Email: ncastillod63@hotmail.com
+Id: 1140891198
