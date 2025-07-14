@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "id": "1",
+      "email": "admin@eventos.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "name": "Nadine",
+      "id": "2",
+      "email": "nadine.admin@eventos.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "name": "Moises",
+      "id": "3",
+      "email": "moises.invitado@eventos.com",
+      "password": "invitado123",
+      "role": "guest"
+    },
+    {
+      "name": "Mery",
+      "id": "4",
+      "email": "mery.invitado@eventos.com",
+      "password": "invitado123",
+      "role": "guest"
+    },
+    {
+      "id": "763a",
+      "name": "Edgardo",
+      "email": "edgardo.invitado@eventos.com",
+      "password": "invitado.123",
+      "role": "guest"
+    }
+  ],
+  "events": [
+    {
+      "title": "Navidad",
+      "planner": "Lorena",
+      "description": "Cena de navidad",
+      "place": "Iglesia",
+      "capacity": 98,
+      "id": "2",
+      "enrolled": [
+        "moises.invitado@eventos.com",
+        "edgardo.invitado@eventos.com"
+      ]
+    },
+    {
+      "title": "Fin de año",
+      "planner": "Nurys",
+      "description": "Fin de año empresarial",
+      "place": "Discolo",
+      "capacity": 98,
+      "id": "3",
+      "enrolled": [
+        "moises.invitado@eventos.com"
+      ]
+    },
+    {
+      "id": "ada1",
+      "title": "Guacherna",
+      "planner": "Eilin",
+      "capacity": 0,
+      "description": "Desfile nocturno",
+      "place": "Calle 72",
+      "enrolled": [
+        "mery.invitado@eventos.com"
+      ]
+    }
+  ]
+}
