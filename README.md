@@ -21,16 +21,29 @@ Simulated API consumption with json-server
 Installation
 
 Clone the repository:
+```
 git clone https://github.com/ncastillod63/event-management.git cd event-management
+```
 
 Install dependencies:
+```
 npm install
+```
 
 Start the API:
+```
 npm run start:api
+```
 
-Open in browser: http://localhost:3000/#/login
-Test Users Administrator: admin@eventos.co / admin123 Guest: moises.invitado@eventos.com / invitado123 You can add users manually in the db.json file under the "users" section or register using the /register view.
+Open in browser: 
+```
+http://localhost:3000/#/login
+```
+Test Users 
+```
+Administrator: admin@eventos.co / admin123 Guest: moises.invitado@eventos.com / invitado123
+```
+You can add users manually in the db.json file under the "users" section or register using the /register view.
 
 Technologies Used
 
