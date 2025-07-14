@@ -43,7 +43,7 @@ JavaScript
 JSON Server
 
 Project Structure
-
+```
 Module-4-master/ 
 ├── db.json # Mock Database 
 ├── public/ 
@@ -57,7 +57,7 @@ Module-4-master/
 │ └── views.js # HTML templates per view 
 ├── package.json # Project configuration 
 └── README.md # This file
-
+```
 Contributions
 
 This is an academic project, but if you'd like to contribute or improve it, you're welcome! You can fork it or submit a pull request.
@@ -65,3 +65,8 @@ This is an academic project, but if you'd like to contribute or improve it, you'
 License
 
 MIT License. Free to use for educational purposes.
+
+Nombre: NADINE ISABEL CASTILLO DOMINGUEZ 
+Clan: Manglar
+Correo, documento de
+identidad
