@@ -44,7 +44,19 @@ JSON Server
 
 Project Structure
 
-Module-4-master/ ├── db.json # Mock Database ├── public/ │ ├── index.html # Home Page │ ├── styles.css # CSS Styles │ └── js/ │ ├── api.js # API Functions │ ├── auth.js # Authentication Logic │ ├── router.js # Routing System │ ├── app.js # Main Entrance │ └── views.js # HTML templates per view ├── package.json # Project configuration └── README.md # This file
+Module-4-master/ 
+├── db.json # Mock Database 
+├── public/ 
+│ ├── index.html # Home Page 
+│ ├── styles.css # CSS Styles 
+│ ├── app.js # Main Entrance 
+│ └── js/ 
+│ ├── api.js # API Functions 
+│ ├── auth.js # Authentication Logic 
+│ ├── router.js # Routing System 
+│ └── views.js # HTML templates per view 
+├── package.json # Project configuration 
+└── README.md # This file
 
 Contributions
 
