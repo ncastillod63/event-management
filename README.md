@@ -21,7 +21,7 @@ Simulated API consumption with json-server
 Installation
 
 Clone the repository:
-git clone https://github.com/ncastillod63/event-management.git cd modulo-4-master
+git clone https://github.com/ncastillod63/event-management.git cd event-management
 
 Install dependencies:
 npm install
