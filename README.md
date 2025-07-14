@@ -41,7 +41,7 @@ http://localhost:3000/#/login
 ```
 Test Users 
 ```
-Administrator: admin@eventos.co / admin123 Guest: moises.invitado@eventos.com / invitado123
+Administrator: admin@eventos.com / admin123 Guest: moises.invitado@eventos.com / invitado123
 ```
 You can add users manually in the db.json file under the "users" section or register using the /register view.
 
